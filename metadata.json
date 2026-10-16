@@ -1,0 +1,6 @@
+{
+  "name": "BOLAJON - Zamonaviy 3D Xususiy Bog‘cha",
+  "description": "Farzandingizning baxtli kelajagi shu yerdan boshlanadi! Mehr, bilim va xavfsiz muhitga ega xususiy bolalar bog'chasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
